@@ -1,7 +1,7 @@
 def suma(a, b):
     return a+b
 def resta(a, b):
-    pass
+    return a-b
 def multiplicacion(a, b):
     return a*b
 if __name__ == "__main__":
