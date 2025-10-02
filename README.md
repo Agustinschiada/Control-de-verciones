@@ -10,6 +10,6 @@ Van a construir una mini calculadora en Python que soporta suma, resta y multipl
 
 
 #### Organización de roles
- * Alumno 1 → suma()  
- * Alumno 2 → resta()
- * Alumno 3 → multiplicar()
+ * Alumno 1 → suma(Schiada)  
+ * Alumno 2 → resta(Sanchez)
+ * Alumno 3 → multiplicar(Paez)
