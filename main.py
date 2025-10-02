@@ -3,7 +3,7 @@ def suma(a, b):
 def resta(a, b):
     pass
 def multiplicacion(a, b):
-    pass
+    return a*b
 if __name__ == "__main__":
     print("Mini Calculadora")
     print("Suma(2,3):", suma(2,3))
